@@ -1,0 +1,1 @@
+0 0 * * * cd /home/krillavilla/Documents/MLDevOps_Program/Dynamic_Risk_Assesment_System && python app/fullprocess.py
